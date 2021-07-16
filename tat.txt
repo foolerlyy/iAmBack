@@ -1,3 +1,6 @@
 This is a test and train for git.
 
+This is main.3.
+both 
+This is tmp.1.
 Now create the main.2.
